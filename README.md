@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ignatius0091
+- 👋 Hi, I’m Ignatius Arya Putra
 - 👀 I’m interested in Mobile Programming
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me ignatius0091@outlook.com
